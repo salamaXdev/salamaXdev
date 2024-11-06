@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, AI**
 
-- 📫 How to reach me **salama@cyberaispace.com**
+- 📫 How to reach me **salamadev00@gmail.com**
 
 
 - 😇 Work With Me: 
