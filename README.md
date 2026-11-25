@@ -58,9 +58,6 @@ technical projects, and applications.
 
 ## 🌍 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/salamawork/
-- Upwork: https://www.upwork.com/freelancers/~01d6d9e16cdb1fd1e6
-- GitHub: https://github.com/salamaXdev
 
 I'm open to collaborating with startups, founders,
 and businesses building SaaS and AI-powered products.
